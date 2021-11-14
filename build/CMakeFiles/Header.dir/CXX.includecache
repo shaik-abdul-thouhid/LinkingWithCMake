@@ -10,9 +10,7 @@
 iostream
 -
 
-/home/runner/LearnLinkingAndCMake/main.cpp
-iostream
--
+/home/runner/LearnLinkingAndCMake/Def.cpp
 Dec.hpp
 /home/runner/LearnLinkingAndCMake/Dec.hpp
 
